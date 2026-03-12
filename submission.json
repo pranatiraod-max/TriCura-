@@ -1,0 +1,126 @@
+{
+  "treatments": [
+    {
+      "patient_id": "P1",
+      "doctor_id": "Doctor_T",
+      "start_time": 0,
+      "end_time": 6
+    },
+    {
+      "patient_id": "P3",
+      "doctor_id": "Doctor_G",
+      "start_time": 2,
+      "end_time": 10
+    },
+    {
+      "patient_id": "P9",
+      "doctor_id": "Doctor_C",
+      "start_time": 4,
+      "end_time": 9
+    },
+    {
+      "patient_id": "P10",
+      "doctor_id": "Doctor_T",
+      "start_time": 6,
+      "end_time": 14
+    },
+    {
+      "patient_id": "P2",
+      "doctor_id": "Doctor_G",
+      "start_time": 10,
+      "end_time": 13
+    },
+    {
+      "patient_id": "P20",
+      "doctor_id": "Doctor_G",
+      "start_time": 13,
+      "end_time": 18
+    },
+    {
+      "patient_id": "P19",
+      "doctor_id": "Doctor_T",
+      "start_time": 14,
+      "end_time": 21
+    },
+    {
+      "patient_id": "P13",
+      "doctor_id": "Doctor_C",
+      "start_time": 17,
+      "end_time": 20
+    },
+    {
+      "patient_id": "P14",
+      "doctor_id": "Doctor_G",
+      "start_time": 18,
+      "end_time": 24
+    },
+    {
+      "patient_id": "P7",
+      "doctor_id": "Doctor_T",
+      "start_time": 21,
+      "end_time": 27
+    },
+    {
+      "patient_id": "P6",
+      "doctor_id": "Doctor_C",
+      "start_time": 22,
+      "end_time": 32
+    },
+    {
+      "patient_id": "P5",
+      "doctor_id": "Doctor_G",
+      "start_time": 24,
+      "end_time": 26
+    },
+    {
+      "patient_id": "P12",
+      "doctor_id": "Doctor_G",
+      "start_time": 26,
+      "end_time": 28
+    },
+    {
+      "patient_id": "P16",
+      "doctor_id": "Doctor_T",
+      "start_time": 27,
+      "end_time": 30
+    },
+    {
+      "patient_id": "P15",
+      "doctor_id": "Doctor_G",
+      "start_time": 28,
+      "end_time": 35
+    },
+    {
+      "patient_id": "P17",
+      "doctor_id": "Doctor_T",
+      "start_time": 30,
+      "end_time": 36
+    },
+    {
+      "patient_id": "P8",
+      "doctor_id": "Doctor_C",
+      "start_time": 32,
+      "end_time": 40
+    },
+    {
+      "patient_id": "P11",
+      "doctor_id": "Doctor_G",
+      "start_time": 35,
+      "end_time": 42
+    },
+    {
+      "patient_id": "P4",
+      "doctor_id": "Doctor_T",
+      "start_time": 36,
+      "end_time": 41
+    },
+    {
+      "patient_id": "P18",
+      "doctor_id": "Doctor_C",
+      "start_time": 40,
+      "end_time": 43
+    }
+  ],
+  "estimated_total_risk": 191,
+  "rests": []
+}
